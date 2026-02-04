@@ -1,6 +1,6 @@
 # mini_projects
 
-A collection of small projects and tools for quick and easy access. This repository is intended to host many independent projects — possibly in different languages and tech stacks — so the README and repository structure are designed to remain useful as new, unrelated projects are added.
+A collection of small projects and tools for quick and easy access. This repository is intended to host many independent projects - possibly in different languages- so the README and repo structure are basic and cover it overall.
 
 ---
 
